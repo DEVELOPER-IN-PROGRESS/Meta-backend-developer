@@ -1,0 +1,13 @@
+different VCS in the market::
+Suybversion , Perforce , AWS Code Commit , Mercurial , Git
+
+Categories :
+Cetralized and Distributed
+
+CVCS (centralized)
+eg git . A main server has the latest copy of code . Developers need to take pull to
+get latest changes
+Slower Speed operation as we need to be connected to server
+
+DVCS:
+similar to CVCS but each client in this case is a micro server

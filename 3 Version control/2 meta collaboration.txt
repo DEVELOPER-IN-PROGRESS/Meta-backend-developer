@@ -1,0 +1,8 @@
+meta uses one giant monolithic repository for backend code whereas in other company
+each team has their own code called microservices .
+bacause meta uses one repository merge conflict happens a lot so smaller changes are done each
+time . Also  they add lots of gatekeepers so they don't need to wait for rollback
+
+" git blame "
+
+

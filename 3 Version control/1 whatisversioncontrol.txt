@@ -1,0 +1,10 @@
+A familiar example for version control we use in daily life is document editing
+application which has autosave feature   using undo and redo we can either go back or go
+forward in time to revist changes done
+
+Provides us
+Revision history , Identity , Collaboration , Automation and Efficiency
+
+Question
+Your development team is tasked to develop an app. Your project manager leads you to work in an Agile way of working where tasks are planned and executed in a two-week cycle.  This is done to ensure which of the following benefits?
+Ans: Efficiency
