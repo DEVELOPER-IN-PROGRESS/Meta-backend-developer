@@ -1,0 +1,99 @@
+Professional Python Coursera
+
+Programming with python
+Week 2 (Functions)
+
+Variable scope
+Local < Enclosing < Global <  Built-in scope
+(LEGB)
+local scope is scope of variables inside a function
+
+enclosing scope refers to nested functions . the innermost block can access outermost scopes and
+not vice versa
+
+global scope refers to variables decalared outside functions
+
+Builtin scope refers to reserved keywords that python use for builtin functions .
+these can be accessed from any levels
+
+list methods
+insert
+append
+extend
+pop(index)
+del
+
+Tuple methods
+index(value to be searched)
+
+Set methods
+union(set) or  set A | set B
+intersection(set)   or set A & set B
+
+setA.difference(set B)  return only element that are present in A
+or set A - set B
+
+set.symmetric_difference(set) return the unique elements present in both set
+set A^ set B
+
+set is not a sequence
+
+kwargs
+when we want  to pass any amount of keyword arguments to a function
+using **agrs we can pass any number of non keyword arguments
+
+try :
+
+except Exceptions as e:
+	print(e)
+	print(e.__class__)
+
+
+Everything in python is an object or derived from object class
+
+class dummy :
+	pass
+here pass refers to no statements so it dosen't return error
+
+
+class A:
+	r = 10
+
+
+var A1 = A()
+A1.r  #returns 10
+
+A.r = 20
+
+changing the class attributes directly would affect the instance  values created from it
+
+super.__init__(**kwargs)  initializes base classes inside the child class
+
+Abstract Classes::  in Abstract class you can ensure functionality of every class that is derived
+from it . The methods we put in abstract class are guarenteed to be present in derived class
+You cannot create instance for abstract class and python does not support abstraction directly
+from abc import ABC (abstract module)
+
+
+Method Resolution Order Determines which is derived from which
+Default order in python is from bottom to top left to right
+usage = class.mro()
+
+
+Reloads module
+make dynamic changes within code to make import statements
+Usage:
+import importlib
+import <filename>
+
+importlib.reload(filename)
+
+
+
+Testing types
+Unit test , Integration Test , System Test , Acceptance tests
+White box Testing - Tester has knowledge about code implementation , architecture , system design
+Black box Testing - vice versa
+
+
+Pytest - python unit Testing library

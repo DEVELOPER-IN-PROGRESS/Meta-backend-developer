@@ -1,0 +1,3 @@
+python generated newfile
+line2
+line69
