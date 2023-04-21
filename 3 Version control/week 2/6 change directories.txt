@@ -1,0 +1,12 @@
+pwd - print working directory
+ls - list files
+ls -l  print files in list format
+cd - change directory
+mkdir make directory
+
+
+Which of the following commands will you use to ensure all the items are printed in a list structure on the screen?
+cd..
+PWD
+Is
+Is-I ✅

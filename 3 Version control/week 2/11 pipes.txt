@@ -1,0 +1,1 @@
+pipes take output from one command and pass it to another

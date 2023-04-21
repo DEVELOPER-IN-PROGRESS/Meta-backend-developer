@@ -1,0 +1,3 @@
+Permission controls
+By default bash script files created on terminal will be read/write only
+chmod  755 filename  to make it ececutable

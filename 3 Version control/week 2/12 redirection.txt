@@ -1,0 +1,7 @@
+cat > filename  -> for inputing text into file
+cat < filename  -> to output the text to terminal
+bash notations::
+    input 0
+    outout 1
+    error 2> or 2>&1
+

@@ -1,0 +1,4 @@
+grep stands for global regular expressions
+grep is case sensitive inorder to avoid It we can use grep -i Flags
+
+grep -w target  filename   #for exact match
