@@ -1,0 +1,19 @@
+A Table is an entity . a table may relate to other tables in a db space
+In Object oriented Db  tables rows are object with each object having attributes a.k.a fields
+
+Every Column in table has certain data type assigned which can't be used to store another data type
+
+    Numeric data types such as INT, TINYINT, BIGINT, FLOAT, REAL.
+
+    Date and time data types such as DATE, TIME, DATETIME.
+
+    Character and string data types such as CHAR, VARCHAR.
+
+    Binary data types such as BINARY, VARBINARY.
+
+    Miscellaneous data types such as:
+
+    Character Large Object (CLOB) for storing a large block of text in some form of text encoding.
+
+    Binary Large Object (BLOB) for storing a collection of binary data such as images.
+

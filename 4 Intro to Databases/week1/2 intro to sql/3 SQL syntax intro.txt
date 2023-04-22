@@ -1,0 +1,27 @@
+CREATE DATABASE  <DB NAME>;
+ONCE db is created we need to create tables which can be performed by
+CREATE TABLE <table name> ; command or
+CREATE TABLE table_name (column_name1 datatype(size), column_name2 datatype(size), column_name3 datatype(size));
+Data population is done by DML which is
+
+INSERT INTO <table name> ( col1 , col2 ...) VALUES (value1 , value2 ....) ;
+UPDATE <tablename> SET <col> = value WHERE ID  = val ;
+Deleta a table --  DROP TABLE table_name;
+
+1. Syntax to add a column into a table:
+ ALTER TABLE table_name ADD (column_name datatype(size));
+2. Syntax to add a primary key to a table:
+ ALTER TABLE table_name ADD primary key (column_name);
+
+to delete all records from a table - TRUNCATE TABLE table_name;
+
+Comments in SQL  --
+eg --Retrieve all data from a table
+
+
+Transaction Control Language (TCL)
+The TCL commands are used to manage transactions in the database.
+These are used to manage the changes made to the data in a table by utilizing the DML commands.
+
+COMMIT Command to save all the work you have already done in the database.
+ROLLBACK Command to restore a database to the last committed state.

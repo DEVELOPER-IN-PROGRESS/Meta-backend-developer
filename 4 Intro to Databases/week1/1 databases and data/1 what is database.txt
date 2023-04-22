@@ -1,0 +1,7 @@
+data is just facts and figures about anything
+in the modern world data is stores in systematic ways rather than manual files
+
+Types of DB
+Object Oriented dbs:: Data is stored in form of objects
+Graph db : data stored in form of graph nodes
+document Db :  data stored as json objects

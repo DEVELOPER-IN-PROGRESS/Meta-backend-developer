@@ -1,0 +1,11 @@
+Data cannot exist in isolation . it must have some relation with outside world or other datas
+so it can be processed into meaningful information
+
+it the table row has similar data we would use any column as primary key to identify it uniquely
+a Foreign Key is a field in one table that connects to primary key field in another table
+
+NO-Sql databases are usually used to store large scaling data set
+eg: document databases , graph databases  key-value databases
+used to store big data
+
+Traditional databases store data in tabular format (eg SQl )

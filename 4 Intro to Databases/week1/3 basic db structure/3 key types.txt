@@ -1,0 +1,5 @@
+a key in a Db has unique column values
+eg Candidate Keys
+Composite Keys - Multiple Key combinations
+Alternate Keys - this is the candidate key which is not selected as a primary key
+Foreign Key - A attribute that references as unique key in another table

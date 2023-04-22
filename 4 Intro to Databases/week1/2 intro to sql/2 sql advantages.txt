@@ -1,0 +1,5 @@
+Very Used friendly language
+complatible with all Relational DB'same
+Manage Database Security
+Requires less coding skills to use
+Helps process large data sets faster

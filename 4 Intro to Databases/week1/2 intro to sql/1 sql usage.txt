@@ -1,0 +1,10 @@
+SQL Subsets
+DDL - Data Definition Language
+DML - Data Manipulation Language
+DQL - Data Query Language
+DCL - Data control Language
+
+DDL - helps define data
+
+DQL For Retrieving Data
+DCL For Controlling Access Privileges
