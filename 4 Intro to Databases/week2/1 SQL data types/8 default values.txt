@@ -1,0 +1,3 @@
+NOT NULL SQl contstraints determines that no field is left blank ever
+DEFAULT SEts up a default values for field whenever we attempt to insert blank records
+eg CREATE TABLE Student ( name varchar(50) NOT NULL, city varchar(30) DEFAULT 'barcelona' ) ;

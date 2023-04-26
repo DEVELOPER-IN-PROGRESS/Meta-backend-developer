@@ -1,0 +1,2 @@
+DELETE FROM <table_name>
+WHERE col_value1 = value

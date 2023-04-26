@@ -1,0 +1,4 @@
+As Data scales up new columns can be added or removed from the table this can be done via
+alter table command.
+format : ALTER TABLE  <table_name>  DROP COLUMN <column_name> ;
+ALTER TABLE <table_name> MODIFY <column_name>  <modifier..>

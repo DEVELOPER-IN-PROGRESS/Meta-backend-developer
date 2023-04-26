@@ -1,0 +1,6 @@
+when working with tables there may be instances where we need to populate another table
+based on SELECT * output . we can do this action using INSERT INTO command
+
+eg INSERT INTO <target_table> (col_name(s))
+    SELECT <column_name> FROM <source_table>
+    

@@ -1,0 +1,3 @@
+you can create or drop databases using command below
+CREATE DATABASE <db_name> ;
+DROP DATABASE <db_name> ;

@@ -1,0 +1,5 @@
+2 basic string types in SQL ie CHAR , VARCHAR one being fixed size and vice versa
+TINYTEXT < 255 chars
+TEXT < 65000
+MEDIUMTEXT < 13.5 M
+LONGTEXT < 4gb 
