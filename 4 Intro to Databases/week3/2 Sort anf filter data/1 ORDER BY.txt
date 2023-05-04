@@ -1,0 +1,5 @@
+This Query is used for obtaining sorted data based on columns.
+Format :::
+SELECT <column name(s)>
+FROM <table_name>
+ORDER BY <column name(s)>  ASC/DESC 

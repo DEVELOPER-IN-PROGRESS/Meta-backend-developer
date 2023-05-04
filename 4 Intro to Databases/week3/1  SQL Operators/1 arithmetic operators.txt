@@ -1,0 +1,5 @@
+Used to perfrom arithemetic operations within query
+SELECT 10 + 5 ;
+eg SELECT column_name1 + column_name2 FROM table_name;
+
+<>, != - not equal to operator
