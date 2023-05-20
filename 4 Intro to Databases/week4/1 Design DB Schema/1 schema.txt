@@ -1,0 +1,13 @@
+in developers terms schema is the organization of information and relationships among them
+a Schema is how data is arranged in Database
+Before anyone can insert data a db schema must be defined , which can also be considered as a blueprint of data.
+the process of schema design is called as data modelling.
+
+
+Database schema can be broadly divided into three categories.
+    1)  Conceptual or logical schema that defines entities, attributes and relationships.
+
+    2)  Internal or physical schema that defines how data is stored in a secondary storage. In other words, the actual storage of data and access paths.
+
+    3)  External or view schema that defines different user views.
+    ER = Entity Realtionship
